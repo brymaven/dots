@@ -1,0 +1,20 @@
+.\#*
+\#*\#
+*~
+
+
+.ghc
+.stack
+
+
+# OSX Related
+.DS_Store
+/Applications
+/Desktop
+/Documents
+/Downloads
+/Library
+/Movies
+/Music
+/Pictures
+/Public
